@@ -11,11 +11,12 @@
 <br />
 ### Connect with me:
 - 📫 humpasp@gmail.com
-![website](https://humphreyokoth.github.io/portfolio/)
-![twitter](https://twitter.com/humphreyokoth_)
-![linkedin](https://www.linkedin.com/in/okoth-humphrey/)
+- https://www.linkedin.com/in/okoth-humphrey/
+<!-- ![website](https://humphreyokoth.github.io/portfolio/)
+![twitter](https://twitter.com/humphreyokoth_) -->
+<!-- ![linkedin](https://www.linkedin.com/in/okoth-humphrey/) -->
 ### Most Used Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&layout=compact&theme=gotham&jupyter%20notebook,JavaScript,Python,Php,dockerfile,typescript,c,scss,css&langs_count=7%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&layout=compact&theme=gotham&jupyter%20notebook,JavaScript,Python,Php,dockerfile,typescript,c,scss,css&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
 
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=humphreyokoth&repo=github-readme-stats) -->
