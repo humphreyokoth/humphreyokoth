@@ -11,8 +11,8 @@
 <br />
 
 ### Connect with me:
-* Send me a mail :mailbox: at : humpasp@gmail.com
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/okoth-humphrey/)
+* Send me a mail :mailbox: at : humpasp@gmail.com <br />
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/okoth-humphrey/)<br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/humphreyokoth_)
 
 <!-- ![website](https://humphreyokoth.github.io/portfolio/)
