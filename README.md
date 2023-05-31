@@ -25,10 +25,10 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 <br />
-https://github.com/humphreyokoth/github-readme-stats
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=humphreyokoth&repo=github-readme-stats)]
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&langs_count=8)]
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=humphreyokoth&repo=github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&langs_count=8)
 
 
 -![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humphreyokoth&theme=radical)
