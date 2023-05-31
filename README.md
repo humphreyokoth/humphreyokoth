@@ -10,8 +10,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 <br />
 ### Connect with me:
-- 📫 humpasp@gmail.com
-
+* Send me a mail :mailbox: at : humpasp@gmail.com
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/okoth-humphrey/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/humphreyokoth_)
 
