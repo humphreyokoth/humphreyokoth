@@ -1,5 +1,5 @@
 ### Hi there 👋
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Codeiginter4](https://img.shields.io/badge/-Codeiginter4-05122A?style=flat&logo=codeiginter4)&nbsp;
@@ -11,11 +11,13 @@
 <br />
 ### Connect with me:
 - 📫 humpasp@gmail.com
-- https://www.linkedin.com/in/okoth-humphrey/
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>]((https://www.linkedin.com/in/okoth-humphrey/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>]([https://twitter.com/KakoozaJerry](https://twitter.com/humphreyokoth_) 
+
 <!-- ![website](https://humphreyokoth.github.io/portfolio/)
 ![twitter](https://twitter.com/humphreyokoth_) -->
 <!-- ![linkedin](https://www.linkedin.com/in/okoth-humphrey/) -->
-### Most Used Languages
+### Most Used Languages:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&layout=compact&theme=gotham&jupyter%20notebook,JavaScript,Python,Php,dockerfile,typescript,c,scss,css&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
 
 
