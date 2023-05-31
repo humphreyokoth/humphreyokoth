@@ -10,4 +10,6 @@
 - TDD  Mocha and Chai , PHP Unit.
 - 🔭 Technical mentoring Junior Developers
 - 📫 humpasp@gmail.com
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humphreyokoth&theme=radical)
+
+
+-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humphreyokoth&theme=radical)
