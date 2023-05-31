@@ -11,3 +11,4 @@
 - 🔭 Technical mentoring Junior Developers
 - 📫 humpasp@gmail.com
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?humphreyokoth= &theme=radical)
