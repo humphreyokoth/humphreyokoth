@@ -11,9 +11,10 @@
 <br />
 ### Connect with me:
 - 📫 humpasp@gmail.com
-![website]:(https://humphreyokoth.github.io/portfolio/)
-![twitter]: (https://twitter.com/humphreyokoth_)
-![linkedin]:(https://www.linkedin.com/in/okoth-humphrey/)
+![website](https://humphreyokoth.github.io/portfolio/)
+![twitter](https://twitter.com/humphreyokoth_)
+![linkedin](https://www.linkedin.com/in/okoth-humphrey/)
+
 
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=humphreyokoth&repo=github-readme-stats) -->
