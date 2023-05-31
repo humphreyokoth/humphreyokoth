@@ -8,14 +8,11 @@
 ![Codeiginter4](https://img.shields.io/badge/-Codeiginter4-05122A?style=flat&logo=codeiginter4)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-
 <br />
-
 ### Connect with me:
 * Send me a mail :mailbox: at : humpasp@gmail.com <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/okoth-humphrey/)&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/humphreyokoth_)
-
 <!-- ![website](https://humphreyokoth.github.io/portfolio/)
 ![twitter](https://twitter.com/humphreyokoth_) -->
 <!-- ![linkedin](https://www.linkedin.com/in/okoth-humphrey/) -->
