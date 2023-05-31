@@ -21,7 +21,7 @@
 
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=humphreyokoth&repo=github-readme-stats) -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humphreyokoth&theme=radical)
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=humphreyokoth&theme=radical) -->
 <br />
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&langs_count=8) -->
 
