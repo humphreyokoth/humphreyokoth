@@ -1,16 +1,14 @@
 ### Hi there 👋
+👨‍ My stack is as follows:
 
-<!--
-**humphreyokoth/humphreyokoth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻   Frontend: HTML, CSS, JavaScript , PHP
+        Backend: NodeJs, Python, PHP  
+        Frameworks:  ReactJS, NextJS, Django, Codeigniter4
+        CI/CD DevOps tools Docker, Github Actions ,Circl CI
+        TDD  Mocha and Chai , PHP Unit.
+        
+- 🔭 Technical mentoring Junior Developers
+- 📫 humpasp@gmail.com
+
