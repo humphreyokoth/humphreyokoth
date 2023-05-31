@@ -1,5 +1,5 @@
 ### Hi there 👋
-🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![Codeiginter4](https://img.shields.io/badge/-Codeiginter4-05122A?style=flat&logo=codeiginter4)&nbsp;
@@ -9,19 +9,11 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next.js)&nbsp;
 <br />
-- 📫 humpasp@gmail.com
-<!-- ![website]:(https://humphreyokoth.github.io/portfolio/)
-![twitter]: (https://twitter.com/humphreyokoth_)
-![linkedin]:(https://www.linkedin.com/in/okoth-humphrey/)### Connect with me: -->
-
-
 ### Connect with me:
-
-[<img align="left" alt="(https://humphreyokoth.github.io/portfolio/)" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="okoth-humphrey | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="humphreyokoth_ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-
+- 📫 humpasp@gmail.com
+![website]:(https://humphreyokoth.github.io/portfolio/)
+![twitter]: (https://twitter.com/humphreyokoth_)
+![linkedin]:(https://www.linkedin.com/in/okoth-humphrey/)
 
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=humphreyokoth&repo=github-readme-stats) -->
