@@ -16,19 +16,19 @@
 <!-- ![website](https://humphreyokoth.github.io/portfolio/)
 ![twitter](https://twitter.com/humphreyokoth_) -->
 <!-- ![linkedin](https://www.linkedin.com/in/okoth-humphrey/) -->
-### Most Used Languages:
+<!-- ### Most Used Languages:
 <a href="https://github.com/humphreyokoth">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&layout=compact&theme=gotham&jupyter%20notebook,JavaScript,Python,Php,dockerfile,typescript,c,scss,css&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
  </a>  &nbsp; &nbsp; <a href="https://github.com/humphreyokoth">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=humphreyokoth&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="humphreyokoth GitHub Stats" />
-</a>
+</a> -->
 ---
 
 ## My GitHub Stats &#x1f4c8;
 
 <a href="https://github.com/humphreyokoth/humphreyokoth">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&layout=compact&theme=gotham&jupyter%20notebook,JavaScript,Python,Php,dockerfile,typescript,c,scss,css&langs_count=10,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+</a>  <br />
 <a href="https://github.com/humphreyokoth">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=humphreyokoth&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="humphrey GitHub Stats" />
 </a>
