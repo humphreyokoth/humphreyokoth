@@ -9,6 +9,7 @@
 ![PHP](https://img.shields.io/badge/-Php-05122A?style=flat&logo=php)&nbsp; <br />
 ![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 <br />
