@@ -10,16 +10,16 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 <br />
 ### Connect with me:
-* Send me a mail  at : humpasp@gmail.com <br />
+* Send me a mail :mailbox: at : humpasp@gmail.com <br />
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/okoth-humphrey/)&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/humphreyokoth_)
 <!-- ![website](https://humphreyokoth.github.io/portfolio/)
-![twitter](https://twitter.com/humphreyokoth_) 
-![linkedin](https://www.linkedin.com/in/okoth-humphrey/)
-![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs)&nbsp;
+![twitter](https://twitter.com/humphreyokoth_) -->
+<!-- ![linkedin](https://www.linkedin.com/in/okoth-humphrey/)
+![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs)&nbsp;-->
 <!-- ### Most Used Languages:
 <a href="https://github.com/humphreyokoth">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&layout=compact&theme=gotham&jupyter%20notebook,JavaScript,Python,Php,dockerfile,typescript,c,css&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
@@ -61,5 +61,4 @@
 - TDD  Mocha and Chai , PHP Unit.
 - 👯 I collaborate to **Open Source**
 - 🔭 Technical mentoring Junior Developers
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
  -->
