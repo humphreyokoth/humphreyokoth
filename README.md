@@ -17,9 +17,9 @@
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/okoth-humphrey/)&nbsp;
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/humphreyokoth_)
 <!-- ![website](https://humphreyokoth.github.io/portfolio/)
-![twitter](https://twitter.com/humphreyokoth_) -->
-<!-- ![linkedin](https://www.linkedin.com/in/okoth-humphrey/)
-![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs)&nbsp;-->
+![twitter](https://twitter.com/humphreyokoth_) 
+![linkedin](https://www.linkedin.com/in/okoth-humphrey/)
+![Nestjs](https://img.shields.io/badge/-Nestjs-05122A?style=flat&logo=nestjs)&nbsp;
 <!-- ### Most Used Languages:
 <a href="https://github.com/humphreyokoth">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=humphreyokoth&layout=compact&theme=gotham&jupyter%20notebook,JavaScript,Python,Php,dockerfile,typescript,c,css&langs_count=10%22%20width=%22250%22%20alt=%22Python%22%20style=%22vertical-align:top;%20margin:4px;%20width:100%%22">
