@@ -10,7 +10,7 @@
 ![Laravel](https://img.shields.io/badge/-Laravel-05122A?style=flat&logo=laravel)&nbsp;
 ![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=Wordpress)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-#![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+<!--![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;-->
 <br />
 ### Connect with me:
 * Send me a mail :mailbox: at : humpasp@gmail.com <br />
