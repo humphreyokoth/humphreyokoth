@@ -61,5 +61,5 @@
 - TDD  Mocha and Chai , PHP Unit.
 - 👯 I collaborate to **Open Source**
 - 🔭 Technical mentoring Junior Developers
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+
  -->
