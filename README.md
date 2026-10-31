@@ -37,7 +37,7 @@
 -->
 
 
-<--## My GitHub Stats &#x1f4c8;
+<!--## My GitHub Stats &#x1f4c8;
 
 
 
